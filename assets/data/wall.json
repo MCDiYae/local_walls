@@ -1,0 +1,153 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "assets/images/image1.jpg",
+        "character": "Flower",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "2",
+        "imageUrl": "assets/images/image2.jpg",
+        "character": "Drawing",
+        "categories": [
+            "Draw",
+            "trend"
+        ]
+    },
+    {
+        "id": "3",
+        "imageUrl": "assets/images/image3.jpg",
+        "character": "Calme",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "4" ,
+        "imageUrl": "assets/images/image4.jpg",
+        "character": "Love",
+        "categories": [
+            "Sea","trend"
+        ]
+    },
+    {
+        "id": "5",
+        "imageUrl": "assets/images/image5.jpg",
+        "character": "Cute",
+        "categories": [
+            "Draw","trend"
+        ]
+    },
+    {
+        "id": "6",
+        "imageUrl": "assets/images/image6.jpg",
+        "character": "Motivation",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "7",
+        "imageUrl": "assets/images/image7.jpg",
+        "character": "Nature",
+        "categories": [
+            "sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "8",
+        "imageUrl": "assets/images/image8.jpg",
+        "character": "Motivation",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "9",
+        "imageUrl": "assets/images/image9.jpg",
+        "character": "Dessert",
+        "categories": [
+            "Nature",
+            "trend"
+        ]
+    },
+    {
+        "id": "10",
+        "imageUrl": "assets/images/image10.jpg",
+        "character": "Beach",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "11",
+        "imageUrl": "assets/images/image11.jpg",
+        "character": "Beach",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "12",
+        "imageUrl": "assets/images/image12.jpg",
+        "character": "Beach",
+        "categories": [
+            "Nature",
+            "trend"
+        ]
+    },
+    {
+        "id": "13",
+        "imageUrl": "assets/images/image13.jpg",
+        "character": "Beach",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "14",
+        "imageUrl": "assets/images/image14.jpg",
+        "character": "Beach",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },{
+        "id": "15",
+        "imageUrl": "assets/images/image5.jpg",
+        "character": "Beach",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    },
+    {
+        "id": "16",
+        "imageUrl": "assets/images/image16.jpg",
+        "character": "Nature",
+        "categories": [
+            "Nature",
+            "trend"
+        ]
+    },
+    {
+        "id": "17",
+        "imageUrl": "assets/images/image17.jpg",
+        "character": "Beach",
+        "categories": [
+            "Sea",
+            "trend"
+        ]
+    }
+
+]
